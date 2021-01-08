@@ -49,6 +49,9 @@ I am part of the master's program at the Federal University of Rio de Janeiro (U
 <img src="https://img.shields.io/badge/-dart-blue?style=flat-square&logo=dart">
 <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white">
 <img src="https://img.shields.io/badge/-phonegap-3880FF?style=flat-square&logo=phonegap&logoColor=white">
+<img src="https://img.shields.io/badge/ios-black.svg?&style=flat-square&logo=ios&logoColor=white"/>
+<img src="https://img.shields.io/badge/macOS-%230769AD.svg?&style=flat-square&logo=macOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-orange.svg?&style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -64,11 +67,11 @@ I am part of the master's program at the Federal University of Rio de Janeiro (U
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket">
 <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira">
+<img src="https://img.shields.io/badge/-Trello-007AC0?style=flat-square&logo=trello">
+<img src="https://img.shields.io/badge/-stackoverflow-grey?style=flat-square&logo=stackoverflow">
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=flat-square&logo=sublime-text&logoColor=white">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-
-<br>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Laravel-E34F26?style=flat-square&logo=Laravel&logoColor=white">
 <img src="https://img.shields.io/badge/PHP%20-%23316192.svg?&style=flat-square&logo=PHP&logoColor=white"/>
@@ -78,6 +81,8 @@ I am part of the master's program at the Federal University of Rio de Janeiro (U
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 <img src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20photoshop-%230769AD.svg?&style=flat-square&logo=Adobe%20photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20drive-339933.svg?&style=flat-square&logo=Google%20drive&logoColor=white"/>
 </p>
 
 <br>
