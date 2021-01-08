@@ -81,8 +81,14 @@ I am part of the master's program at the Federal University of Rio de Janeiro (U
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 <img src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/wordpress-blue.svg?&style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/jekyll-red.svg?&style=flat-square&logo=jekyll&logoColor=white"/>
+<img src="https://img.shields.io/badge/julia-purple.svg?&style=flat-square&logo=julia&logoColor=white"/>
+<img src="https://img.shields.io/badge/json-ambar.svg?&style=flat-square&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20photoshop-%230769AD.svg?&style=flat-square&logo=Adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20drive-339933.svg?&style=flat-square&logo=Google%20drive&logoColor=white"/>
+<img src="https://img.shields.io/badge/OBS%20studio-black.svg?&style=flat-square&logo=OBS%20studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-red.svg?&style=flat-square&logo=slack&logoColor=white"/>
 </p>
 
 <br>
