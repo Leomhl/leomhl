@@ -20,9 +20,12 @@
 </h2>
 <hr>
 
-I'm <b>Leonardo Marinho</b>, and I'm a Software Engineer teacher at <a href="https://www.alura.com.br/" target="_blank">Alura cursos</a> (the largest technology education platform in brazil) and I've been working in tech since 2010. I'm from Brazil, and I'm currently living in beautiful Nova Friburgo city.
+My name is Leonardo Marinho and I’m a software engineer and teacher at (the largest technological education platform in Brazil).
+I’ve been working with tech since 2010
 
-I am part of the master's program at the Federal University of Rio de Janeiro (UFRJ) and I'm organizer of <a href="https://www.instagram.com/openlabsoficial/" target="_blank">OpenLabs</a> conference of technology.
+My name is <b>Leonardo Marinho</b> and I'm a software engineer and teacher at <a href="https://www.alura.com.br/" target="_blank">Alura cursos</a> (the largest technological education platform in Brazil). I've been working in tech since 2010. I'm from Brazil, and I'm currently living in beautiful Nova Friburgo city.
+
+I am part of the master's program at the Federal University of Rio de Janeiro (UFRJ) and I’m the organizer of the <a href="https://www.instagram.com/openlabsoficial/" target="_blank">OpenLabs</a> conference of technology.
 
 <br>
 
@@ -31,17 +34,17 @@ I am part of the master's program at the Federal University of Rio de Janeiro (U
 
 <ul>
     <li>
-        <b>Do you like mobile apps?</b> Take a look my futter book called <a href="https://www.casadocodigo.com.br/products/livro-flutter" target="_blank">Iniciando com Flutter Framework</a> <br>(Starting with Flutter framework) published by publisher <a href="https://www.casadocodigo.com.br/" target="_blank">Casa do código</a>.
+        <b>Do you like mobile apps?</b> Take a look at my Flutter book called <a href="https://www.casadocodigo.com.br/products/livro-flutter" target="_blank">Iniciando com Flutter Framework</a> <br>(Starting with Flutter framework) published by publisher <a href="https://www.casadocodigo.com.br/" target="_blank">Casa do código</a>.
     </li>
     <br>
     <li>
-        <b>Do you like recommendation systems?</b> Take a look my chapter of a book called <a href="https://www.researchgate.net/publication/340068617_Conceitos_Implementacao_e_Dados_Privados_de_Algoritmos_de_Recomendacao" target="_blank">Conceitos, Implementação e Dados Privados de Algoritmos de Recomendação</a> (Concepts, Implementation and Private Data of Recommendation Algorithms) published by VI Escola Regional de Sistemas de Informação.
+        <b>Do you like recommendation systems?</b> Take a look at the chapter I wrote for the book called <a href="https://www.researchgate.net/publication/340068617_Conceitos_Implementacao_e_Dados_Privados_de_Algoritmos_de_Recomendacao" target="_blank">Conceitos, Implementação e Dados Privados de Algoritmos de Recomendação</a> (Concepts, Implementation and Private Data of Recommendation Algorithms) published by VI Escola Regional de Sistemas de Informação.
     </li>
 </ul>
 
 <br>
 
-<h2>Some technologies that I work 🖥️</h2>
+<h2>Some technologies that I work with 🖥️</h2>
 <hr>
 
 <p align="center">
