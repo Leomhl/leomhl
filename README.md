@@ -20,9 +20,6 @@
 </h2>
 <hr>
 
-My name is Leonardo Marinho and I’m a software engineer and teacher at (the largest technological education platform in Brazil).
-I’ve been working with tech since 2010
-
 My name is <b>Leonardo Marinho</b> and I'm a software engineer and teacher at <a href="https://www.alura.com.br/" target="_blank">Alura cursos</a> (the largest technological education platform in Brazil). I've been working in tech since 2010. I'm from Brazil, and I'm currently living in beautiful Nova Friburgo city.
 
 I am part of the master's program at the Federal University of Rio de Janeiro (UFRJ) and I’m the organizer of the <a href="https://www.instagram.com/openlabsoficial/" target="_blank">OpenLabs</a> conference of technology.
