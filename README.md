@@ -89,6 +89,7 @@ I am part of the master's program at the Federal University of Rio de Janeiro (U
 <img src="https://img.shields.io/badge/Google%20drive-339933.svg?&style=flat-square&logo=Google%20drive&logoColor=white"/>
 <img src="https://img.shields.io/badge/OBS%20studio-black.svg?&style=flat-square&logo=OBS%20studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/slack-red.svg?&style=flat-square&logo=slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/slack-red.svg?&style=flat-square&logo=swift"/>
 </p>
 
 <br>
