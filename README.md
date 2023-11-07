@@ -20,9 +20,8 @@
 </h2>
 <hr>
 
-My name is <b>Leonardo Marinho</b> and I'm a senior software engineer at <a href="https://planatechnologies.com/">Plan A Technologies</a> and teacher aof mobile development t <a href="https://www.alura.com.br/" target="_blank">Alura cursos</a> (the largest technological education platform in Brazil). I've been working in tech since 2010. I'm from Brazil, and I'm currently living in beautiful Nova Friburgo city.
-
-I am part of the master's program at the Federal University of Rio de Janeiro (UFRJ) and I’m the organizer of the <a href="https://www.instagram.com/openlabsoficial/" target="_blank">OpenLabs</a> conference of technology.
+My name is <b>Leonardo Marinho</b> and I'm a senior software engineer at <a href="https://planatechnologies.com/">Plan A Technologies</a>. I've been working in tech since 2010.
+I have a master's degree in computer science - Federal University of Rio de Janeiro (UFRJ). I’m the organizer of the <a href="https://www.instagram.com/openlabsoficial/" target="_blank">OpenLabs</a> tech conference.
 
 <br>
 
