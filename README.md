@@ -125,9 +125,9 @@ Yes, I watch brooklyn 99!
     Site
 </a>
 <br>
-<a href="mailto:leonardo.marinho@alura.com.br"  target="_blank">
+<a href="mailto:leonardomarinho.nf@gmail.com"  target="_blank">
     <img src="./images/email.png" width="15"></img>
-    leonardo.marinho@alura.com.br
+    leonardomarinho.nf@gmail.com
 </a>
 <br><br>
 
